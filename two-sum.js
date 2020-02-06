@@ -11,7 +11,7 @@
  * @return {number[]}
  */
 
-//brute force method
+// brute force method
 // Time complexity O(n^2)
 // Space complexity O(1)
 var twoSumBruteForce = function (nums, target) {
